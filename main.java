@@ -24,5 +24,6 @@ public class main {
         tree.printPreOrder(tree.root);
         System.out.println("\nPost Order:");
         tree.printPostOrder(tree.root);
+        System.out.println();
     }
 }
